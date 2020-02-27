@@ -85,11 +85,6 @@ def add_category(request):
 	# Will handle the bad form, new form, or no form supplied cases.
 	# Render the form with error messages (if any).
 	return render(request, 'rango/add_category.html', {'form': form})
-<<<<<<< HEAD
-	# Fixed an issue with context. 
-=======
->>>>>>> 719354f24d1f50a4bca2ea5cb23bafd5dcef2a46
-
 
 def add_page(request, category_name_slug):
 	try:
