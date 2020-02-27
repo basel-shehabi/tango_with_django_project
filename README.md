@@ -1,1 +1,1 @@
-Recreated repo, messed up all the merging/branching sequence since I'm not git literate yet. (Also the rango.jpg image was chosen randomly not per the book)
+Recreated repo, messed up all the merging/branching sequence since I'm not git literate yet. (Also the rango.jpg image was chosen randomly not per the book) This is all the code up until chapter 9 MINUS the 2 exercises in the book.
